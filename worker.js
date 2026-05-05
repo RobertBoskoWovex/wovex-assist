@@ -45,6 +45,7 @@ textarea {
   border-top: 1px solid #ddd;
   font-size: 12px;
   color: #555;
+  margin-bottom: 25px
 }
 
 .btn {
